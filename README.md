@@ -16,7 +16,7 @@ Site - nand2tetris.org
 - [x] DMux
 - [x] Not16
 - [x] And16
-- [ ] Or16
+- [x] Or16
 - [ ] Mux16
 - [ ] Or8Way
 - [ ] Mux4Way16
