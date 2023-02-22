@@ -13,7 +13,7 @@ Site - nand2tetris.org
 - [x] Or
 - [x] Xor
 - [x] Mux
-- [ ] DMux
+- [X] DMux
 - [ ] Not16
 - [ ] And16
 - [ ] Or16
