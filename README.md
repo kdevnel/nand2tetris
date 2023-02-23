@@ -28,6 +28,6 @@ Site - nand2tetris.org
 ## Unit 2
 - [x] Half Adder
 - [x] Full Adder
-- [ ] Add16
+- [x] Add16
 - [ ] Inc16
 - [ ] ALU
