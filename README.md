@@ -26,8 +26,8 @@ Site - nand2tetris.org
 - [x] DMux8Way
 
 ## Unit 2
-- [ ] Half Adder
-- [ ] Full Adder
+- [x] Half Adder
+- [x] Full Adder
 - [ ] Add16
 - [ ] Inc16
 - [ ] ALU
