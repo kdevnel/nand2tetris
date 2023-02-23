@@ -29,5 +29,5 @@ Site - nand2tetris.org
 - [x] Half Adder
 - [x] Full Adder
 - [x] Add16
-- [ ] Inc16
+- [x] Inc16
 - [ ] ALU
