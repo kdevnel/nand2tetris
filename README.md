@@ -30,4 +30,4 @@ Site - nand2tetris.org
 - [x] Full Adder
 - [x] Add16
 - [x] Inc16
-- [ ] ALU
+- [x] ALU
