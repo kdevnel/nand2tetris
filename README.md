@@ -8,6 +8,7 @@ Site - nand2tetris.org
 /tools - contains all the files for running the hardware simulator.
 /projects - contains the project files for building the course projects.
 
+## Unit 1
 - [x] And
 - [x] Not
 - [x] Or
@@ -23,3 +24,10 @@ Site - nand2tetris.org
 - [x] Mux8Way16
 - [x] DMux4Way
 - [x] DMux8Way
+
+## Unit 2
+- [ ] Half Adder
+- [ ] Full Adder
+- [ ] Add16
+- [ ] Inc16
+- [ ] ALU
